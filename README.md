@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreejata Banerjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Computer Science & Engineering @ KIIT
+Passionate about AI/ML and Web Dev</h3>
 
 - 📫 How to reach me **sreejata.banerjee.01@gmail.com**
 
