@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final Year CSE @ KIIT | AI/ML Enthusiast | Web Developer | Always Learning 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76989&center=true&vCenter=true&width=435&lines=Code.+Create.+Conquer.;Passionate+about+AI%2FML+%26+Web+Development;Growth+Mindset+on+beast+mode+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fbb4c4&center=true&vCenter=true&width=435&lines=Learn.+Build.+Win.;Passionate+about+AI%2FML+%26+Web+Development;Growth+Mindset+on+beast+mode+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,15 +19,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,flask,mysql,mongodb,git,github,linux,figma" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreejatabanerjee&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreejatabanerjee&theme=radical" alt="Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,flask,mysql,git,github" />
 </p>
 
 ---
