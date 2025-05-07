@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final Year CSE @ KIIT | AI/ML Enthusiast | Web Developer | Always Learning 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fbb4c4&center=true&vCenter=true&width=435&lines=Learn.+Build.+Win.;Passionate+about+AI%2FML+%26+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fbb4c4&center=true&vCenter=true&width=435&lines=Learn.+Build.+Win." alt="Typing SVG" />
 </p>
 
 ---
